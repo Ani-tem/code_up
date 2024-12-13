@@ -12,10 +12,7 @@ CodeUp is a basic Online Code Editor that lets you write and preview HTML, CSS, 
 
 - **Preview**: The output of your code will be displayed on the right side of the editor.
 - ## Snap
-![Uploading Screenshot 2024-12-13 at 7.46.33 PM.png…]()
-
-
-
+Screenshot 2024-11-11 114552.png
 
 ## 
 ### Leave a 🌟 if it was Helpful!!
