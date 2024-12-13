@@ -11,8 +11,11 @@ CodeUp is a basic Online Code Editor that lets you write and preview HTML, CSS, 
 - **JavaScript Input**: Write your JavaScript code in the `JavaScript` textarea. This code will be executed when you press any keys inside this textarea or make changes.
 
 - **Preview**: The output of your code will be displayed on the right side of the editor.
+- ## Snap
+![Uploading Screenshot 2024-12-13 at 7.46.33 PM.png…]()
 
-## Snap
+
+
 
 ## 
 ### Leave a 🌟 if it was Helpful!!
