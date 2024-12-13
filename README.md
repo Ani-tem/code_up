@@ -1,6 +1,6 @@
-# Code_easy ✒️
+# Code_Up ✒️
  
-CodeEasy is a basic Online Code Editor that lets you write and preview HTML, CSS, and JavaScript code in real-time. 
+CodeUp is a basic Online Code Editor that lets you write and preview HTML, CSS, and JavaScript code in real-time. 
 
 ## Usage
 
@@ -13,7 +13,6 @@ CodeEasy is a basic Online Code Editor that lets you write and preview HTML, CSS
 - **Preview**: The output of your code will be displayed on the right side of the editor.
 
 ## Snap
-![snap](https://github.com/akash-kethavath/code_edit/blob/2254966b1e0d77c6a46a343b04c15786a615ebc7/Screenshot%202024-11-11%20114552.png) 
 
 ## 
 ### Leave a 🌟 if it was Helpful!!
